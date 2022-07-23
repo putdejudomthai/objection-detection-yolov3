@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>WUJI (9-23-2020 4-45-01 PM)</folder>
+	<filename>WUJI 28.jpg</filename>
+	<path>C:\cut\WUJI (9-23-2020 4-45-01 PM)\WUJI 28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text-label</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>599</ymin>
+			<xmax>1258</xmax>
+			<ymax>657</ymax>
+		</bndbox>
+	</object>
+</annotation>

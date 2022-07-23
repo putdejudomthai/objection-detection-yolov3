@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>วันของข้าวมันไก่แห่งชาติ (8-7-2020 4-41-19 PM)</folder>
+	<filename>วันของข้าวมันไก่แห่งชาติ 350.jpg</filename>
+	<path>C:\Users\kanat\OneDrive\เดสก์ท็อป\va\imag\วันของข้าวมันไก่แห่งชาติ (8-7-2020 4-41-19 PM)\วันของข้าวมันไก่แห่งชาติ 350.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text-label</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>532</xmin>
+			<ymin>618</ymin>
+			<xmax>746</xmax>
+			<ymax>671</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>text-label</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>573</xmin>
+			<ymin>580</ymin>
+			<xmax>708</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>
